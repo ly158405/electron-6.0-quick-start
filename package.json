@@ -1,0 +1,14 @@
+{
+  "name": "electron-6.0-quick-start",
+  "version": "1.0.0",
+  "main": "main.js",
+  "license": "MIT",
+  "scripts": {
+    "start": "electron .",
+    "dist": "electron-builder"
+  },
+  "devDependencies": {
+    "electron": "^6.0.0",
+    "electron-builder": "^21.1.5"
+  }
+}
