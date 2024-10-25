@@ -38,6 +38,20 @@ npm start
 # Build the app
 npm run dist
 ```
+**or use pnpm**
+```
+# Clone this repository
+git clone https://github.com/ly158405/electron-6.0-quick-start.git
+# Go into the repository
+cd electron-6.0-quick-start
+# Install dependencies
+pnpm i
+# Run the app
+pnpm start
+# Build the app
+pnpm dist
+```
+
 ## Resources for Learning Electron 
 - [electronjs.org/docs](https://electronjs.org/docs)- Electron's documentation 官方文档
 
