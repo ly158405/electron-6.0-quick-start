@@ -12,6 +12,7 @@ The version is a bit outdated, but it still works. I chose to use this version b
 To clone and run this repository you'll need Git and Node.js  installed on your computer. From your command line:
 <br>要克隆和运行这个仓库，你需要在电脑上安装Git和Node.js。从命令行输入以下命令：
 
+**use yarn**
 ```
 # Clone this repository
 git clone https://github.com/ly158405/electron-6.0-quick-start.git
@@ -24,7 +25,19 @@ yarn start
 # Build the app
 yarn dist
 ```
-
+**or use npm**
+```
+# Clone this repository
+git clone https://github.com/ly158405/electron-6.0-quick-start.git
+# Go into the repository
+cd electron-6.0-quick-start
+# Install dependencies
+npm i
+# Run the app
+npm start
+# Build the app
+npm run dist
+```
 ## Resources for Learning Electron 
 - [electronjs.org/docs](https://electronjs.org/docs)- Electron's documentation 官方文档
 
