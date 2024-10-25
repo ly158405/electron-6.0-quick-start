@@ -14,7 +14,7 @@ To clone and run this repository you'll need Git and Node.js  installed on your 
 
 ```
 # Clone this repository
-git clone https://github.com/electron/electron-quick-start.git
+git clone https://github.com/ly158405/electron-6.0-quick-start.git
 # Go into the repository
 cd electron-6.0-quick-start
 # Install dependencies
