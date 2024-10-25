@@ -3,7 +3,7 @@
 **Clone and run for a quick way to see Electron in action.<br>克隆并运行，快速上手Electron的实际应用。**
 
 The versions used are Electron@6.0.0 and Electron-builder@21.1.5.  
-使用的版本是Electron@6.0.0和Electron-builder@21.1.5
+使用的版本是Electron@6.0.0和Electron-builder@21.1.5。
 
 The version is a bit outdated, but it still works. I chose to use this version because there are tutorials available for it.
 <br>版本有点老但能用，之所以用这个版本是因为有教程用的这个版本。
